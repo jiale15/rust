@@ -5,11 +5,13 @@
 
 Exercism exercises in Rust
 
-## Fork Project's Aim fork此项目的目的
+## Fork Project's Aim / fork此项目的目的
 
 Learn Rust while adding Chinese translations to deepen memory and understanding.
 
 学习Rust，同时添加中文翻译，以加深记忆和理解。
+
+欢迎提issue、pr指正。
 
 ## Contributing
 
