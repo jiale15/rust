@@ -15,11 +15,12 @@ Learn Rust while adding Chinese translations to deepen memory and understanding.
 
 |添加的翻译文件所在目录|about|introduction|
 |  ----  | ----  | ----  |
-|[functions](https://github.com/jiale15/rust/tree/main/concepts/functions)|[functions about](concepts/functions/about-zh.md)|[functions introduction](concepts/functions/introduction-zh.md)
-|[integers](https://github.com/jiale15/rust/tree/main/concepts/integers)|[integers about](concepts/integers/about-zh.md)|[integers introduction](concepts/integers/introduction-zh.md)
-|[floating-point-numbers](https://github.com/jiale15/rust/tree/main/concepts/floating-point-numbers)|[floating-point-numbers about](concepts/floating-point-numbers/about-zh.md)|[floating-point-numbers introduction](concepts/floating-point-numbers/introduction-zh.md)
-|[vec-macro](https://github.com/jiale15/rust/tree/main/concepts/vec-macro)|[vec-macro about](concepts/vec-macro/about-zh.md)|[vec-macro introduction](concepts/vec-macro/introduction-zh.md)
-
+|[functions](https://github.com/jiale15/rust/tree/main/concepts/functions)|[functions introduction](concepts/functions/introduction-zh.md)|[functions about](concepts/functions/about-zh.md)
+|[integers](https://github.com/jiale15/rust/tree/main/concepts/integers)|[integers introduction](concepts/integers/introduction-zh.md)|[integers about](concepts/integers/about-zh.md)
+|[floating-point-numbers](https://github.com/jiale15/rust/tree/main/concepts/floating-point-numbers)|[floating-point-numbers introduction](concepts/floating-point-numbers/introduction-zh.md)|[floating-point-numbers about](concepts/floating-point-numbers/about-zh.md)
+|[vec-macro](https://github.com/jiale15/rust/tree/main/concepts/vec-macro)|[vec-macro introduction](concepts/vec-macro/introduction-zh.md)|[vec-macro about](concepts/vec-macro/about-zh.md)
+|[tuples](https://github.com/jiale15/rust/tree/main/concepts/tuples)|[tuples introduction](concepts/tuples/introduction.md)|[tuples about](concepts/tuples/about.md)
+|[destructuring](https://github.com/jiale15/rust/tree/main/concepts/destructuring)|[destructuring introduction](concepts/destructuring/introduction.md)|[destructuring about](concepts/destructuring/about.md)
 ## Contributing
 
 Check out our [contributor documentation](docs/CONTRIBUTING.md).
